@@ -33,7 +33,7 @@ muminus = 0.025/(24*60)
 # auxiliary functions
 rhoG        = x1**2/(p5**2+x1**2)
 lambdaplus  = muplus/(1+(8.4/x1)**1.7)
-lambdaminus = muminus/(1+(x1/4.8)**8.5)
+lambdaminus = muminus/(1+(x1/4.8)**8.4)
 
 # dynamic equations
 f = [[u0+uu-(p4+p2*x3)*x1], [x2*(lambdaplus-lambdaminus)], [p1*x2*rhoG-p3*x3]]

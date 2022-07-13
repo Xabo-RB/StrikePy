@@ -17,11 +17,11 @@ x = [[Tu], [Ti], [V]]
 h = [[V], [Tu+Ti]]
 
 # 0 known inputs
-u = []
+eta = sym.Symbol('eta')
+u = [eta]
 
 # 1 unknown input
-eta = sym.Symbol('eta')
-w = [eta]
+w = []
 
 # 5 unknown parameters
 lambdA = sym.Symbol('lambdA')
