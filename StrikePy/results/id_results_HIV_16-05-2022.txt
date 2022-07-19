@@ -1,0 +1,7 @@
+
+ RESULTS SUMMARY:
+ >>> The model is Fully Input-State-Parameter Observable (FISPO):
+     All its states are observable.
+     All its parameters are locally structurally identifiable.
+ Total execution time: 0.5221173763275146 seconds 
+

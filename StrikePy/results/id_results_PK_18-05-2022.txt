@@ -1,0 +1,15 @@
+
+ RESULTS SUMMARY:
+ >>> The model is structurally unidentifiable.
+ >>> These parameters are identifiable:
+      [k4, k5, k6]
+ >>> These parameters are unidentifiable:
+      [k1, k2, k3, k7, s2, s3]
+ >>> These states are observable (and their initial conditions, if unknown, are identifiable):
+      [x1]
+ >>> These states are unobservable (and their initial conditions, if unknown, are unidentifiable):
+      [x2, x3, x4]
+ >>> These inputs are known:
+      [u1]
+ Total execution time: 210.39145350456238 seconds 
+
