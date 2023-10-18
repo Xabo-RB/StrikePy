@@ -10,7 +10,7 @@ An example of both calls is given below, just run this file to perform the test.
 from strike_goldd import strike_goldd
 
 # Without arguments...
-strike_goldd('options_TS_known_inputs')
+strike_goldd('options_ruminal')
 
 # Passing to it the options of the predefined model HIV...
 #strike_goldd('options_HIV')
